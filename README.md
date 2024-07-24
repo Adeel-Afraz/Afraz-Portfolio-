@@ -1,2 +1,2 @@
-# afraz-Portfolio-
+# Afraz-Portfolio-
 Analytics Portfolio
