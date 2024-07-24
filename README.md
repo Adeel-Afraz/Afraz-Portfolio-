@@ -1,5 +1,5 @@
 # Mirza Adeel Afraz Baig
-[LinkedIn](www.linkedin.com/in/mirza-adeel-afraz-baig) | [GitHub](https://github.com/your-github)
+[LinkedIn](https://www.linkedin.com/in/mirza-adeel-afraz-baig) | [GitHub](https://github.com/your-github)
 
 ## About Me
 I am a  BTech graduate aspiring to become a data analyst. I have experience creating dashboards with Power BI and working on various data analytics projects.
